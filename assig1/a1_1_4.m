@@ -1,3 +1,6 @@
+aPR = init_aPR;
+fs = 44100;
+
 time = 2;
 sample_len = time*fs;
 n_buff = sample_len/aPR.BufferSize;
