@@ -1,0 +1,27 @@
+
+% ------------------------------------------
+% hamming
+% wh = hamming(2*n+1); 
+% subplot(3,1,1)
+% plot hamming
+% plot(dbFh);
+% axis([0 1024/2 -80 40]);
+% 
+% %gausswin
+% wg = gausswin(2*n+1,2.5);
+% Fg = fft(wg); 
+% dbFg = db(abs(fft(wg,N))); 
+% %plot hausswin
+% subplot(3,1,2)
+% plot(dbFg);
+% axis([0 1024/2 -80 40]);
+% 
+% %kaiser
+% wk = kaiser(2*n+1,2.5);
+% Fk = fft(wk); 
+% dbFk = db(abs(fft(wk,N))); 
+% %plot kaiser
+% subplot(3,1,3)
+% plot(dbFk);
+% axis([0 1024/2 -80 40]);
+
