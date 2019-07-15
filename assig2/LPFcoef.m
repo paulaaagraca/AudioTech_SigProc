@@ -1,5 +1,5 @@
 function [B,A]=LPFcoef(cutoff,angle,fs)
-%Assignment 3 - Exercise 3.1 : 
+%Assignment 2 - Exercise 3.1 : 
 %   IIR Filter Design
 %   -> Function calculates coefficients of a digital second order lowpass
 %   filter with given cutoff frequency, resonant angle and sample frequency
@@ -51,7 +51,7 @@ B = g*poly([-1 -1]);
 end
 
 
-% Assignment 3 - Exercise 3.2 
+% Assignment 2 - Exercise 3.2 
 %
 %   Second order filters have resonance, so the cutoff frequency is
 %   not -3dB as in first order filters.
