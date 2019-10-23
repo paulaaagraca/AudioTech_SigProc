@@ -1,3 +1,8 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
+
 aPR = init_aPR;
 
 n=512;
