@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 % Assignment 3 - Exercise 3.4:
 %   Spectral Analysis
 %
