@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function gs=gainsmooth(gain, lastGS, t_AS, t_RS, fs)
 % Assignment 4 : Exercise 3.4
 %   Gain smoothing for dynamic range compressor
