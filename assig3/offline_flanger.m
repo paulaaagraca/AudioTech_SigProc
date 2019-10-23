@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out=offline_flanger(sig,M0,a,f,g,fs)
 % Assignment 3 - Exercise 1.4 :
 %   Offline Flanger
