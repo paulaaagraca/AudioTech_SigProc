@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out=linear_fade(sig,t_fadein,t_fadeout,fs)
 % Assignment 4 : Exercise 1.1
 %   Modulation with an envelope
