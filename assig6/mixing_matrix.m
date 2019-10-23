@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function [matrix] = mixing_matrix(N)
 % Assignment 6 : Exercise 1.1
 %   Creation of mixing matrix
