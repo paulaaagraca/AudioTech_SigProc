@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out = lossless_FDN(u,d,N,t60,fs)
 % Assignment 6 : Exercise 1.3
 %
