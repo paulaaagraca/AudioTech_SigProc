@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 % Assignment 2 - Exercise 1 : 
 %   Windowing method for FIR filter design
 %
