@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out=lin_resample(sig,speed)
 % Assignment 3 - Exercise 1.2 : 
 %   Interpolated delay lines for Vibrato and Flanger
