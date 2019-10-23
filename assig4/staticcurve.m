@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function dBout=staticcurve(dBin, cr, lim_thr, comp_thr, gate_thr)
 % Assignment 4 : Exercise 3.1
 %   Static curve (dB) for dynamic range compressor
