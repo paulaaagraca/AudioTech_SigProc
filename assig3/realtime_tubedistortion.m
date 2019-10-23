@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 classdef realtime_tubedistortion < audioPlugin
 % Assignment 3 - Exercise 3.3 :
     properties
