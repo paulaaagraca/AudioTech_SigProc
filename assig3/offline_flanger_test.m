@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 [sig,Fs] = audioread('GitHarmony.wav');
 M0 = 10;
 a = 5;
