@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 classdef realtime_overdrive < audioPlugin
 % Assignment 3 - Exercise 3.2 :
     properties
