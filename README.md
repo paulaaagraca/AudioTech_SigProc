@@ -1,4 +1,4 @@
-# From Noob to Experienced Noob in Audio Technology
+# From Noob to Experienced Noob in Audio Technology:notes::headphones:
 ## Signal Processing for Audio Technology 
 
 This repository contains a set of exercises of signal processing applied to audio related tasks.
