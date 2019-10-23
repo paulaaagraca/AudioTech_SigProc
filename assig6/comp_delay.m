@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function M = comp_delay(N, t60, fs)
 % Assignment 6 : Exercise 1.2
 %   Calculate delay lengths
