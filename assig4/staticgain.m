@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function gain=staticgain(level, cr, lim_thr, comp_thr, gate_thr)
 % Assignment 4 : Exercise 3.2
 %   Static gain (linear) for dynamic range compressor
