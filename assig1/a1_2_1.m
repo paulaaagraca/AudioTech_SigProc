@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 % 2.1
 aPR = init_aPR;
 recdata = realtime_passthrough(4)
