@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function [h]= inverse_FIR_design(G,N)
 % Assignment 2 - Exercise 2.1 : 
 %   Linear phase FIR filter design
