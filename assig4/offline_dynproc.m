@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out=offline_dynproc(sig,cr,lim_thr,comp_thr,gate_thr,t_AP,t_RP,t_AS,t_RS,t_delay,fs)
 % Assignment 4 - Exercise 3.5 
 %   Offline implementation of a dynamic processor
