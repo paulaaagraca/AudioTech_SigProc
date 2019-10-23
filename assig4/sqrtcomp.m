@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 classdef sqrtcomp < audioPlugin
 % Assignment 4 : Exercise 2.1
 %   Instantaneous compression
