@@ -1,3 +1,8 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
+
 function [B,A]=LPFcoef(cutoff,angle,fs)
 %Assignment 2 - Exercise 3.1 : 
 %   IIR Filter Design
