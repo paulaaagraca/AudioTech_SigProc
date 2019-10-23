@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 classdef realtime_dynproc < audioPlugin
 % Assignment 4 - Exercise 3.6 :
 %   Real time implementation of a dynamic processor
