@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 [x,Fs] = audioread('GitSolo.wav');
 
 l = linspace(0,100);
