@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function rms=rmslevel(sig, lastRMS, t_AR, fs)
 % Assignment 4 : Exercise 3.3
 %   RMS level estimation 
