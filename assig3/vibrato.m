@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 function out=vibrato(sig,f,A,fs)
 % Assignment 3 - Exercise 1.3 : 
 %   Interpolated delay lines for Vibrato and Flanger
