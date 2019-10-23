@@ -1,3 +1,7 @@
+%
+% Author : Paula A A Graça
+% Student @ TUM 2019
+%
 classdef realtime_flanger < audioPlugin
 % Assignment 3 - Exercise 2 :
     properties
